@@ -5,3 +5,34 @@
 .company-name {
     font-weight: bold;
 }
+
+.content {
+    background-color: #fcfade
+}
+
+.search-area {
+    width: 100%;
+    padding-top: 15%;
+    background-image: url(images/bg-shot.png);
+    padding-bottom: 15%
+}
+
+.search-bar {
+    margin: 0 auto;
+    background-color: white;
+    border: solid gray 2px;
+    font-size: 30px;
+    color: gray;
+    width: 60%
+}
+
+.search-button {
+    float: right;
+    margin: auto;
+    background-color: #2382f7;
+}
+
+.search-button a:link{
+    color: white;
+    text-decoration: none;
+}
