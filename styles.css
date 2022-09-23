@@ -36,3 +36,45 @@
     color: white;
     text-decoration: none;
 }
+
+.event-bar {
+    background-color: #e6f6fe;
+    border-top: 0.5px solid;
+    border-top-color: #000000;
+    border-bottom: 0.5px solid;
+    border-bottom-color: #000000;
+}
+
+.join-now {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.form-container {
+   padding: 40px;
+   text-align: center;
+}
+
+.field {
+    margin-left: 18%;
+    width: 25%;
+    padding: 10px;
+    text-align: right;
+}
+
+.response {
+    margin-right: 25%;
+    width: 25%;
+    padding: 10px;
+    text-align: left;
+}
+
+.register {
+    background-color: #e6f6fe;
+}
+
+.register-button {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
